@@ -167,20 +167,7 @@
 </div>
 
 
-<div class="menu-category" data-category="brace">
-  <div class="menu-section">
-    <h2>Carne cotta alla brace</h2>
-    <div class="dish">
-      <span class="dish-name">Costata di Angus alla brace cotta sulla pietra lavica (circa 600/700g)</span>
-    </div>
-    <div class="dish">
-      <span class="dish-name">Salsiccia di vitello (200g)</span>
-    </div>
-    <div class="dish">
-      <span class="dish-name">Salsiccia di maiale a punta di coltello</span>
-    </div>
-  </div>
-</div>
+
 
 <div class="menu-category" data-category="contorni">
   <div class="menu-section">
